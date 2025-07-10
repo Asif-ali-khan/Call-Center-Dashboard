@@ -7,41 +7,41 @@ This project showcases an interactive dashboard built in Power BI to analyze and
 
 ## 🎯 Key Objectives
 
-- 📈 Monitor total calls received, answered, and abandoned
-- 👩‍💻 Track average talk time and speed of response
-- 🧍 Analyze agent-wise performance and satisfaction ratings
-- 📊 Visualize calls by topic, time of day, and monthly trends
-- 📬 Evaluate overall customer experience and CSAT scores
+- 📈 Monitor total calls received, answered, and abandoned  
+- 👩‍💻 Track average talk time and speed of response  
+- 🧍 Analyze agent-wise performance and satisfaction ratings  
+- 📊 Visualize calls by topic, time of day, and monthly trends  
+- 📬 Evaluate overall customer experience and CSAT scores  
 
 ---
 
 ## 🗃️ Data Source
 
-- Provided by: **PricewaterhouseCoopers (PwC)**
-- Key fields:
-  - Call ID, topic, duration
-  - Agent ID, satisfaction score, response time
-  - Call outcome (resolved/unresolved), date & time
+- **Provided by**: PricewaterhouseCoopers (PwC)  
+- **Key Fields**:
+  - Call ID, topic, duration  
+  - Agent ID, satisfaction score, response time  
+  - Call outcome (resolved/unresolved), date & time  
 
 ---
 
 ## 📊 Dashboard Highlights
 
-- ✅ KPIs: Total Calls, Answered %, Avg. Handling Time, Avg. Satisfaction
-- 📅 Monthly Call Volumes
-- 🔍 Call Topic Distribution (Streaming, Support, Contracts, etc.)
-- 📈 Call Volume by Time of Day
-- 👤 Avg. Talk Time by Agent
-- 🧠 Agent-wise Satisfaction Ratings
+- ✅ KPIs: Total Calls, Answered %, Avg. Handling Time, Avg. Satisfaction  
+- 📅 Monthly Call Volumes  
+- 🔍 Call Topic Distribution (Streaming, Support, Contracts, etc.)  
+- 📈 Call Volume by Time of Day  
+- 👤 Avg. Talk Time by Agent  
+- 🧠 Agent-wise Satisfaction Ratings  
 
 ---
 
 ## 💥 Business Impact
 
-- Identified top-performing and underperforming agents
-- Reduced wait times by spotting peak-hour bottlenecks
-- Improved overall CSAT score by tracking real-time issues
-- Data-driven decisions on staffing, training, and scheduling
+- Identified top-performing and underperforming agents  
+- Reduced wait times by spotting peak-hour bottlenecks  
+- Improved overall CSAT score by tracking real-time issues  
+- Enabled data-driven staffing, training, and scheduling decisions  
 
 ---
 
@@ -49,16 +49,15 @@ This project showcases an interactive dashboard built in Power BI to analyze and
 
 - Power BI  
 - Excel (for raw data)  
-- DAX (KPIs & calculations)
+- DAX (KPIs & calculations)  
 
 ---
 
-## ## 📁 Files Included
+## 📁 Files Included
 
 - 📊 [01 Call-Center-Dataset.xlsx](./01%20Call-Center-Dataset.xlsx)  
 - 📄 [PWC Call center Dashboard.pdf](./PWC%20Call%20center%20Dashboard.pdf)  
-- 🧠 [PWC Call center Dashboard.pbix](./PWC%20Call%20center%20Dashboard.pbix)
-
+- 🧠 [PWC Call center Dashboard.pbix](./PWC%20Call%20center%20Dashboard.pbix)  
 
 ---
 
